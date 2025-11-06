@@ -1,1 +1,1 @@
-# strctureD-2025
+# structureD-2025
